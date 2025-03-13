@@ -1,11 +1,16 @@
 # The URL the site will be built for
 base_url = "https://varlogsimon.com/"
+theme = "apollo"
+
+title = "/var/log/simon"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
+
+generate_feeds = true
 
 [markdown]
 # Whether to do syntax highlighting
@@ -14,3 +19,15 @@ highlight_code = true
 
 [extra]
 # Put all your custom variables here
+theme = "auto"
+
+socials = [
+    { name = "bluesky", url = "https://bsky.app/profile/simon.overgrown.garden", icon = "bluesky" },
+    { name = "github", url = "https://github.com/simonft/", icon = "github" },
+]
+
+menu = [
+    { name = "/posts", url = "/blog", weight = 1 },
+    { name = "/links", url = "/links", weight = 2 },
+    { name = "/about", url = "/about", weight = 3 },
+]
