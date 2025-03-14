@@ -11,4 +11,4 @@ So, inspired by [Simon Willison](https://simonwillison.net/2024/Dec/22/link-blog
 
 The theme will be things I find interesting, with an emphasis on blog posts or reporting I feel comfortable evaluating the strength of, where I feel I have something I can add, and that are less likely to be posted to other link blogs. This probably means mostly privacy, security, and other tech-heavy topics.
 
-The first link is [Strava Bans User for Running in North Korea](@/links/strava_bans_user_running_north_korea.md) and there are RSS feeds for [the link blog](/links/atom.xml), [the regular blog](/blog/atom.xml), and [everything](@atom.xml).
+The first link is [Strava Bans User for Running in North Korea](@/links/strava_bans_user_running_north_korea.md) and there are RSS feeds for [the link blog](/links/atom.xml), [the regular blog](/blog/atom.xml), and [everything](/atom.xml).
