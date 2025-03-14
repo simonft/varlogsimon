@@ -29,5 +29,5 @@ socials = [
 menu = [
     { name = "/posts", url = "/blog", weight = 1 },
     { name = "/links", url = "/links", weight = 2 },
-    { name = "/about", url = "/about", weight = 3 },
+    { name = "/about", url = "@/pages/about.md", weight = 3 },
 ]
