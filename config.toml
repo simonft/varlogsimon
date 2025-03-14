@@ -24,6 +24,7 @@ theme = "auto"
 socials = [
     { name = "bluesky", url = "https://bsky.app/profile/simon.overgrown.garden", icon = "bluesky" },
     { name = "github", url = "https://github.com/simonft/", icon = "github" },
+    { name = "rss", url = "/atom.xml", icon = "rss" },
 ]
 
 menu = [
